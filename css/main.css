@@ -14,7 +14,7 @@ html {
 }
 
 .hover-box:hover .hover-box-caption,
-.hover-box:focus .hover-box-caption  {
+.hover-box:focus .hover-box-caption {
   bottom: 0;
 }
 
@@ -30,5 +30,5 @@ html {
 }
 
 .hover-box:focus {
-z-index: 10;
+  z-index: 10;
 }
